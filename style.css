@@ -1,35 +1,23 @@
 
-p{font-family: 'Open Sans', sans-serif;
-
+p, h3, h2, h1,  {
+	font-family: 'Roboto', sans-serif;
+ text-align: center;
 }
 
-li{font-family: 'Open Sans', sans-serif;
+li {
+	font-family: 'Roboto', sans-serif;
 	float:left;
 display:inline-block;
-padding:30px 40px;
-margin-left:40px;
+padding:50px 40px;
+margin-left:200px;
 }
 
-first palate
-0C0C0C
-F6F4D2
-CBDFBD
-F19C79
-F19C79
+.header {
+	background-color:#FCF8ED;
+padding: 10px 15px;
+font-family: 'Open Sans', sans-serif;
+}
 
-second
-ECEBE4
-222222
-FAB3B3
-C5D9BF
-FFE099
-
-color cordinated
-C5DCA0
-891A1C
-222222
-9DD1FB
-684488
-
-font 
-railway
+a:hover{
+	color: #F1FFFA;
+}

@@ -1,7 +1,6 @@
 
 p, h3, h2, h1,  {
-	font-family: 'Roboto', sans-serif;
- text-align: center;
+	font-family: 'Open Sans', sans-serif;
 }
 
 li {
@@ -21,3 +20,32 @@ font-family: 'Open Sans', sans-serif;
 a:hover{
 	color: #F1FFFA;
 }
+
+body{
+	text-align: center;
+
+}
+
+.home{
+	background-color: #FCF8ED;
+	padding:20px 20px;
+}
+
+p{
+	color:#474747;
+}
+.lhead{
+	background-color:#DAD1F0;
+	padding:50px 50px;
+}
+.ahead{
+	background-color:#FB9489;
+	padding:50px 50px;
+}
+
+.khead{
+	background-color:#CDF4F0;
+	padding:50px 50px;
+}
+
+

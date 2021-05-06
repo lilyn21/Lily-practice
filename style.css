@@ -23,6 +23,7 @@ a:hover{
 
 body{
 	text-align: center;
+	font-family: 'Open Sans', sans-serif;s
 
 }
 
@@ -47,5 +48,8 @@ p{
 	background-color:#CDF4F0;
 	padding:50px 50px;
 }
+.p1{
+	font-family: 'Open Sans', sans-serif;
 
+}
 
